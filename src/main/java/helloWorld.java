@@ -13,7 +13,7 @@ public class helloWorld {
     public static void main(String[] arg) {
         helloWorld obj = new helloWorld();
         obj.printVariable();
-        funtion2();
+        obj.funtion2();
 
     }
 }
